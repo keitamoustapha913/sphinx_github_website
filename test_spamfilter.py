@@ -1,5 +1,5 @@
 import unittest
-import spamfilter as sf
+import first_module as sf
 
 
 class TestSpamfilter(unittest.TestCase):
