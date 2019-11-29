@@ -1,5 +1,5 @@
-khafen74_github
-===============
+Sphinx_GitHub_Website
+=====================
 
 .. toctree::
    :maxdepth: 4
